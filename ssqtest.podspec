@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "ssqtest"
-  spec.version      = "0.0.1"
+  spec.version      = "4.0.0"
   spec.summary      = "A short description of testssq."
   spec.description  = <<-DESC
 	test
